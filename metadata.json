@@ -1,0 +1,6 @@
+{
+  "name": "PhotoX",
+  "description": "Professional offline image editor and design tool with layers, camera RAW processing, filters, and clone stamps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
